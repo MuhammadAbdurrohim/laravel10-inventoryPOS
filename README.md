@@ -1,6 +1,5 @@
 ## Demo
-!(public/images/screenshot.jpg)
-**Live Demo:** will update soon
+![pos](https://github.com/MuhammadAbdurrohim/laravel10-inventoryPOS/assets/85945415/207d04db-f416-4f20-88e7-9a0390995cf9)
 
 ## Inventory Management POS Features
 
