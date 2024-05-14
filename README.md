@@ -1,5 +1,5 @@
 ## Demo
-![inventoryPOS](public/images/screenshot.jpg)
+!(public/images/screenshot.jpg)
 **Live Demo:** will update soon
 
 ## Inventory Management POS Features
